@@ -197,9 +197,9 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ## 📞 Support
 
-- 🐛 **Bug Reports**: [Open an issue](https://github.com/yourusername/obsidianflash/issues)
-- 💡 **Feature Requests**: [Start a discussion](https://github.com/yourusername/obsidianflash/discussions)
-- 📧 **Contact**: your.email@example.com
+- 🐛 **Bug Reports**: [Open an issue](https://github.com/JoachimRay/obsidianflash/issues)
+- 💡 **Feature Requests**: [Start a discussion](https://github.com/JoachimRay/obsidianflash/discussions)
+- 📧 **Contact**: raychiong2006@gmail.com
 
 ## 🎯 Roadmap
 
