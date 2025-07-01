@@ -213,3 +213,5 @@ MIT License - see [LICENSE](LICENSE) file for details.
 ---
 
 **Made with ❤️ for the Obsidian community**
+
+# Obsidian-Flash
