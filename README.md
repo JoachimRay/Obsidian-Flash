@@ -65,7 +65,7 @@ carbon dioxide, and water into glucose and oxygen using chlorophyll.
 
 ### Generated Flashcards:
 ```markdown
-What is photosynthesis?
+What is photosynthesis
 ?
 The process by which plants convert sunlight, CO2, and water into glucose and oxygen
 
